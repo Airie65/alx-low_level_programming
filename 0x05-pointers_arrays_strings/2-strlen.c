@@ -3,11 +3,12 @@
 /**
  * _Strlen - Returns the length of a string
  * @s: String
- * Return: longi
+ * Return: Longi
  */
 
 int _strlen(char *s)
 {
+
 	int longi = 0;
 
 	while (*s != '\0')
@@ -15,6 +16,5 @@ int _strlen(char *s)
 		longi++;
 		s++;
 	}
-
 	return (longi);
 }
