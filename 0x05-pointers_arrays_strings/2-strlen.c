@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _Strien - Returns the length of a string
+ * _String - Returns the length of a string
  * @s: String
  * Return: Length
  */
