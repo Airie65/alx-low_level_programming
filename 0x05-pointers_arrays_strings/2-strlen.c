@@ -2,8 +2,8 @@
 
 /**
  * _Strlen - Returns the length of a string
- * @s:String
- * Return: Longi
+ * @s: String
+ * Return: longi
  */
 
 int _strlen(char *s)
