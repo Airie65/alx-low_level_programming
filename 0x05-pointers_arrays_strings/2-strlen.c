@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * _strien - returns the length of a string
- * @s: string
- * Return: length
+ * _Strien - Returns the length of a string
+ * @s: String
+ * Return: Length
  */
+
 int _strlen(char *s)
 {
 	int longi = 0;
