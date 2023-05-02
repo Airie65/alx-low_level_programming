@@ -2,8 +2,9 @@
 
 /**
  * _Strlen - Returns the length of a string
- * @s: String
- * Return: Longi
+ * @s: String whose length is to be found.
+ *
+ * Return: returns the length of the @s
  */
 
 int _strlen(char *s)
